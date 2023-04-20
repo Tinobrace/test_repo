@@ -1,0 +1,15 @@
+#Flexing my abilities
+
+#This is what I am doing now.
+
+A very simple answer is.
+
+Step 1:
+
+Firstly add your untracked files to which you want to delete:
+
+using git add . or git add <filename>.
+
+Step 2:
+
+Then delete them easily using command git rm -f <filename> here rm=remove and -f=forcely.
